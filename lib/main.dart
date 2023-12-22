@@ -12,7 +12,7 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  // 메인 위젯
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
